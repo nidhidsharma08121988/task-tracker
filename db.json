@@ -1,0 +1,22 @@
+{
+  "tasks": [
+    {
+      "text": "Learn Redux",
+      "day": "",
+      "reminder": true,
+      "id": 2
+    },
+    {
+      "text": "Learn GraphQL",
+      "day": "Today",
+      "reminder": true,
+      "id": 3
+    },
+    {
+      "text": "Learn Testing",
+      "day": "Day after tomorrow",
+      "reminder": true,
+      "id": 4
+    }
+  ]
+}
